@@ -1,0 +1,4 @@
+Income,2018-12-12,Allowance,500,from mama
+Income,2018-12-12,Gifts,250,from tita
+Expense,2018-12-12,Transportation,150,fare
+Expense,2018-12-12,Education,300,books

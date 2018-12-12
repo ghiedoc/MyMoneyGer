@@ -1,0 +1,6 @@
+Ace,Corpuz,Male,ace,ace,Male,0
+Jade,Malands,Female,jade,1234,Female,3000
+Nikki,Tanchoco,Female,nikki,nikki,Female,5500
+Jomari,Castaneda,Male,jomcas,jomcas,Male,5730
+Carmella,Guelas,Female,guelascd,110215,Female,52950
+Manolito,Octaviano,Male,mano,mano,Male,1300

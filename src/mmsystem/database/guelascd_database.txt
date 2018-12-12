@@ -1,0 +1,7 @@
+Income,2018-12-12,Allowance,500,From my parents
+Expense,2018-12-12,Food,50,Adobo with rice
+Expense,2018-12-12,Gift,500,Bag for him
+Income,2018-12-12,Others,50,From my parents
+Income,2018-12-12,Scholarship Allowance,1500,SYDP
+Expense,2018-12-12,Gift,50,TNT
+Income,2018-12-12,Scholarship Allowance,1500,SYDP

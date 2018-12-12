@@ -1,0 +1,11 @@
+Income,2018-12-10,Allowance,100,hello
+Expense,2018-12-10,Food,50,yes
+Income,2018-12-10,Scholarship Allowance,5000,SMF
+Expense,2018-12-10,Transportation,100,van
+Income,2018-12-10,Gifts,200,pamasko
+Expense,2018-12-10,Load,50,jackie
+Income,2018-12-12,Allowance,100,yes
+Expense,2018-12-12,Food,200,papasa
+Expense,2018-12-12,Food,7000,minus 7000
+Income,2018-12-12,Allowance,1500,plus 1500
+Expense,2018-12-12,Food,700,minus 700

@@ -1,0 +1,140 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12 10, 18, 3:38:56 PM
+    Author     : Gillian
+*/
+
+.root{
+    -fx-background-color: #f4f4f4;
+    -fx-font-size: 14px;
+}
+
+.card{
+    -fx-background-color: white;
+    -fx-border-radius: 4.0px;
+    -fx-background-radius: 4.0px;
+    -fx-effect: dropshadow(gaussian,rgb(0.0,0.0,0.0,0.15),6.0,0.7,0.0,1.5);
+}
+
+.btn-login{
+    -fx-background-radius: 35px;
+    -fx-border-radius: 35px;
+    -fx-background-color: #5a5a5a;
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+    -jfx-button-type: FLAT;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 25px;
+}
+
+.btn-login:hover{
+    -fx-background-color: #313131;
+}
+
+.btn-login:default{
+    -fx-background-color: #5a5a5a;
+}
+
+.universal-btn-add{
+    -fx-background-radius: 30px;
+    -fx-background-color: #33c58e;
+}
+
+.anchor-label{
+    -fx-background-color: #33c58e;
+    
+}
+
+.side-menu-button:hover{
+    -fx-background-color: #009360;
+}
+
+.side-menu-button:default{
+    -fx-background-color: #243a51;
+}
+
+.btn-add{
+    -fx-background-radius: 35px;
+    -fx-border-radius: 35px;
+    -fx-background-color: #008e76;
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+    -jfx-button-type: FLAT;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 25px;
+}
+
+ .btn-add:hover{
+    -fx-background-color: #00604a;
+}
+
+ .btn-add:default{
+    -fx-background-color: #008e76
+}
+
+.text-title{
+    -fx-font-weight: bold;
+    -fx-font-size: 24px;
+    -fx-text-fill: #008e76;
+    -fx-font-family: "Open Sans"
+     
+}
+
+.text-subtitle{
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+    -fx-font-family: "Open Sans"
+    
+}
+
+.text-subtitle-lighbg{
+    -fx-font-weight: bold;
+    -fx-font-size: 18px;
+    -fx-text-fill: black;
+    -fx-font-family: "Open Sans"
+    
+}
+
+.text-label{
+    -fx-font-weight: bold;
+    -fx-font-size: 35px;
+    -fx-text-fill: white;
+    -fx-font-family: "Open Sans"
+}
+
+.glyph-icon{
+    -fx-font-family:"FontAwesome"; 
+}
+
+.tab{
+    -fx-background-color: #33c58e;
+    -fx-pref-width: 200;
+    -fx-pref-height: 40;
+}
+
+.tab:hover{
+    -fx-background-color: #00604a;
+}
+
+.tab:default{
+    -fx-background-color: #33c58e;
+}
+
+.tab-header-background{
+    -fx-background-color: #33c58e;
+}
+
+.text-P{
+    -fx-font-size: 35px;
+    -fx-font-weight: bold
+}
+
+
+

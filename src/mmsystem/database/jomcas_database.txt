@@ -1,0 +1,6 @@
+Expense,2018-12-12,Apparel,5000,Two shirts
+Income,2018-12-12,Allowance,150,from Mama
+Income,2018-12-12,Gifts,1500,from Kuya
+Expense,2018-12-12,Education,700,three books
+Expense,2018-12-12,Food,720,three books
+Income,2018-12-12,Working Allowance,500,bossing
